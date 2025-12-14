@@ -16,3 +16,10 @@ White House press briefings and statements
 > Always respect `robots.txt`, terms of service, and avoid excessive automated requests.  
 > This repository is for research and educational purposes only.
 
+<img width="870" height="570" alt="Image" src="https://github.com/user-attachments/assets/776b4de4-1e2b-4434-8e32-92ab758fa992" />
+
+<img width="1130" height="1028" alt="Image" src="https://github.com/user-attachments/assets/ac04dc1f-7dcf-4eca-89d9-9e4d7831f788" />
+
+<img width="1046" height="825" alt="Image" src="https://github.com/user-attachments/assets/a4fd16ff-bef7-4b66-9d0f-693cff76713a" />
+
+<img width="952" height="854" alt="Image" src="https://github.com/user-attachments/assets/1b5432a5-8518-49ad-b751-dda3fd4eadab" />
